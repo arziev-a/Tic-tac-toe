@@ -30,8 +30,11 @@ body {
 }
 
 h1 {
-    color: white;
     margin-top: 100px;
+}
+
+h1, h3 {
+    color: white;
     font-size: 35px;
 }
 
